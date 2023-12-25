@@ -7,4 +7,4 @@ App.js: Main code file containing the React Native components, navigation, and a
 
 README.md: Repository documentation providing an overview of the app.
 
-This is a sample React Native project intended for demonstration purposes only.
+*This is a sample React Native project intended for demonstration purposes only.*
